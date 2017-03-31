@@ -1434,87 +1434,6 @@ h6,
 #menu-1t .close-icon::after {
   background-color: #ffffff;
 }
-#menu-1x .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-1x .navbar-caption {
-  color: #ffffff;
-}
-#menu-1x .navbar-toggler {
-  color: #ffffff;
-}
-#menu-1x .link,
-#menu-1x .dropdown-item {
-  color: #ffffff;
-}
-#menu-1x .link {
-  font-size: 0.75rem;
-}
-#menu-1x .dropdown-item,
-#menu-1x .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-1x .link:hover,
-#menu-1x .dropdown-item:hover,
-#menu-1x .link:focus,
-#menu-1x .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-1x .link[aria-expanded="true"],
-#menu-1x .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-1x .nav-dropdown-sm .link:focus,
-#menu-1x .nav-dropdown-sm .link:hover,
-#menu-1x .nav-dropdown-sm .dropdown-item:focus,
-#menu-1x .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-1x .navbar,
-#menu-1x .nav-dropdown-sm,
-#menu-1x .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1x .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-1x .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-1x .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-1x .bg-color.transparent.opened .link:hover,
-#menu-1x .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-1x .link[aria-expanded="true"],
-#menu-1x .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-1x.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-1x .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-1x .close-icon::before,
-#menu-1x .close-icon::after {
-  background-color: #ffffff;
-}
-#slider2-1y .mbr-section-title,
-#slider2-1y .mbr-section-lead {
-  color: #fff;
-}
-#header6-20 .mbr-section-title {
-  color: #28262b;
-}
-#header6-20 .mbr-section-text {
-  color: #565656;
-}
-#social-buttons2-22 .mbr-section-title,
-#social-buttons2-22 .btn-social {
-  color: #232323;
-}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2006,4 +1925,85 @@ h6,
 #menu-2i .close-icon::before,
 #menu-2i .close-icon::after {
   background-color: #ffffff;
+}
+#menu-2m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2m .navbar-caption {
+  color: #ffffff;
+}
+#menu-2m .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2m .link,
+#menu-2m .dropdown-item {
+  color: #ffffff;
+}
+#menu-2m .link {
+  font-size: 0.75rem;
+}
+#menu-2m .dropdown-item,
+#menu-2m .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-2m .link:hover,
+#menu-2m .dropdown-item:hover,
+#menu-2m .link:focus,
+#menu-2m .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-2m .link[aria-expanded="true"],
+#menu-2m .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-2m .nav-dropdown-sm .link:focus,
+#menu-2m .nav-dropdown-sm .link:hover,
+#menu-2m .nav-dropdown-sm .dropdown-item:focus,
+#menu-2m .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-2m .navbar,
+#menu-2m .nav-dropdown-sm,
+#menu-2m .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2m .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-2m .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2m .bg-color.transparent.opened .link:hover,
+#menu-2m .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-2m .link[aria-expanded="true"],
+#menu-2m .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-2m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2m .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-2m .close-icon::before,
+#menu-2m .close-icon::after {
+  background-color: #ffffff;
+}
+#slider2-2n .mbr-section-title,
+#slider2-2n .mbr-section-lead {
+  color: #fff;
+}
+#header6-2p .mbr-section-title {
+  color: #28262b;
+}
+#header6-2p .mbr-section-text {
+  color: #565656;
+}
+#social-buttons2-2r .mbr-section-title,
+#social-buttons2-2r .btn-social {
+  color: #232323;
 }
